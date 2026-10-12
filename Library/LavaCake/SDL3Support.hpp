@@ -13,7 +13,7 @@
 #include <SDL3/SDL_vulkan.h>
 
 namespace LavaCake {
-namespace SDL2 {
+namespace SDL3 {
 
     /**
      * \brief Create a SurfaceConfig for use with an SDL2 window
